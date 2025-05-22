@@ -94,3 +94,4 @@ python -m unittest discover -s tests
 - As credenciais são tratadas como variáveis de ambiente para segurança
 - O bot está configurado para o projeto "NAME" conforme solicitado
 - As respostas são formatadas de forma amigável usando embeds do Discord
+- Criado 100% por IA utilizando manus.im
